@@ -62,7 +62,7 @@ const Quotes: React.FC = () => {
     },
     {
       text: "Ijeoma's testing coverage, particularly her API and regression testing skills, are second to none. Her contributions during our product launch were invaluable.",
-      name: "Ishak Ali Dambaba",
+      name: "Ishaq Ali Dambaba",
       title: "CEO, Dynasty Ocean Shipping",
     },
     {
